@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon&rank=SSS,SS,S,AAA,AA,A&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvlyon&rank=AAA,AA,SSS,SS,S&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
 
